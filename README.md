@@ -1,4 +1,4 @@
-# Frontend Practice Project
+# Frontend React && Typescript Project
 
 ![Project Banner](gym-typescript/src/assets/banner.png)
 
@@ -8,10 +8,7 @@
 - [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Introduction
 
