@@ -1,6 +1,6 @@
 # Frontend Practice Project
 
-![Project Banner](../Fitness-Website_using-TS-React/gym-typescript/src/assets/banner.png)
+![Project Banner](gym-typescript/src/assets/banner.png)
 
 ## Table of Contents
 
