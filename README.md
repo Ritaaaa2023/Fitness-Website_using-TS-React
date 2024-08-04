@@ -34,6 +34,6 @@ This is a frontend practice project built using various modern web technologies.
 To get started with this project, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone (https://github.com/Ritaaaa2023/Fitness-Website_using-TS-React.git)
 npm install
+npm run dev
